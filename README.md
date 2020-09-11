@@ -31,3 +31,8 @@
   <summary>Lab 06: Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring</summary>
   <img src="screenshots/lab_06.png">
 </details>
+
+<details>
+  <summary>Lab 07: Google Cloud Fundamentals: Getting Started with BigQuery</summary>
+  <img src="screenshots/lab_07.png">
+</details>
