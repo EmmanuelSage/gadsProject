@@ -56,3 +56,9 @@
   <summary>Lab 11: Console and Cloud Shell</summary>
   <img src="screenshots/lab_11.png">
 </details>
+
+<br/>
+
+## Translated Labs
+
+1. [Getting Started with Compute Engine](./Translations/Translation_01.md).
