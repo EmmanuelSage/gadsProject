@@ -64,3 +64,5 @@
 1. [Google Cloud Fundamentals Getting Started with Compute Engine](./Translations/Translation_01.md).
 
 2. [Google Cloud Fundamentals Getting Started with GKE](./Translations/Translation_02.md).
+
+2. [Console and Cloud Shell](./Translations/Translation_03.md).
