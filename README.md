@@ -61,4 +61,6 @@
 
 ## Translated Labs
 
-1. [Getting Started with Compute Engine](./Translations/Translation_01.md).
+1. [Google Cloud Fundamentals Getting Started with Compute Engine](./Translations/Translation_01.md).
+
+2. [Google Cloud Fundamentals Getting Started with GKE](./Translations/Translation_02.md).
