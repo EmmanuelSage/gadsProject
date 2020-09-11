@@ -51,3 +51,8 @@
   <summary>Lab 10: Infrastructure Preview</summary>
   <img src="screenshots/lab_10.png">
 </details>
+
+<details>
+  <summary>Lab 11: Console and Cloud Shell</summary>
+  <img src="screenshots/lab_11.png">
+</details>
