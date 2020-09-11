@@ -26,3 +26,8 @@
   <summary>Lab 05: Google Cloud Fundamentals: Getting Started with App Engine</summary>
   <img src="screenshots/lab_05.png">
 </details>
+
+<details>
+  <summary>Lab 06: Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring</summary>
+  <img src="screenshots/lab_06.png">
+</details>
