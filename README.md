@@ -21,3 +21,8 @@
   <summary>Lab 04: Google Cloud Fundamentals: Getting Started with Cloud Marketplace</summary>
   <img src="screenshots/lab_04.png">
 </details>
+
+<details>
+  <summary>Lab 05: Google Cloud Fundamentals: Getting Started with App Engine</summary>
+  <img src="screenshots/lab_05.png">
+</details>
