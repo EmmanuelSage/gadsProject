@@ -16,3 +16,8 @@
   <summary>Lab 03: Explore a BigQuery Public Dataset</summary>
   <img src="screenshots/lab_03.png">
 </details>
+
+<details>
+  <summary>Lab 04: Google Cloud Fundamentals: Getting Started with Cloud Marketplace</summary>
+  <img src="screenshots/lab_04.png">
+</details>
