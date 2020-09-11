@@ -41,3 +41,8 @@
   <summary>Lab 08: Google Cloud Fundamentals: Getting Started with Compute Engine</summary>
   <img src="screenshots/lab_08.png">
 </details>
+
+<details>
+  <summary>Lab 09:  Google Cloud Fundamentals: Getting Started with GKE</summary>
+  <img src="screenshots/lab_09.png">
+</details>
