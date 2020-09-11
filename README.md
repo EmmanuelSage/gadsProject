@@ -46,3 +46,8 @@
   <summary>Lab 09:  Google Cloud Fundamentals: Getting Started with GKE</summary>
   <img src="screenshots/lab_09.png">
 </details>
+
+<details>
+  <summary>Lab 10: Infrastructure Preview</summary>
+  <img src="screenshots/lab_10.png">
+</details>
